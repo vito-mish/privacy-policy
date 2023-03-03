@@ -72,7 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### deploy step by step:
 
-1. `npm run build`
-2. `npm run deploy`
-3. (wait three minutes)
-4. https://vito-mish.github.io/privacy-policy/
+1. `npm run deploy`
+2. (wait three minutes)
+3. https://vito-mish.github.io/privacy-policy/
